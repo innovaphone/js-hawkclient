@@ -84,5 +84,4 @@ MIT License – free to use, modify, and distribute.
 
 ## ✍️ Author
 
-Created for use with the [Innovaphone SDK](https://sdk.innovaphone.com/).  
-Tested with HAWK-secured APIs such as Gigaset's Grape API.
+Created for use with the [Innovaphone SDK](https://sdk.innovaphone.com/).
